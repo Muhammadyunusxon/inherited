@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:inherited/state_widget.dart';
+import 'package:inherited/Simple/state_widget.dart';
 
 Route generatePage(child) {
   return MaterialPageRoute(builder: (context) => child);
